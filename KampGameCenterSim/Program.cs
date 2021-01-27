@@ -22,7 +22,7 @@ namespace KampGameCenterSim
             Console.WriteLine("Soy isim girin :");
             string soyisim = Console.ReadLine();
 
-            Console.WriteLine("Doğum tarihi girin :");
+            Console.WriteLine("Doğum tarihi girin (Yıl,ay,gün) :");
             DateTime dogumTarihi = Convert.ToDateTime(Console.ReadLine());
 
             Player player = new Player();

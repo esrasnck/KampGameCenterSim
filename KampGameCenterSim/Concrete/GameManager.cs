@@ -10,17 +10,17 @@ namespace KampGameCenterSim.Concrete
     {
         public void Add(Game entity)
         {
-            throw new NotImplementedException();
+            Console.WriteLine($"{entity.NameOfGame} isimli oyun eklendi.");
         }
 
         public void Delete(Game entity)
         {
-            throw new NotImplementedException();
+            Console.WriteLine($"{entity.NameOfGame} isimli oyun silindi.");
         }
 
         public void Update(Game entity)
         {
-            throw new NotImplementedException();
+            Console.WriteLine($"{entity.NameOfGame} isimli oyun güncellendi.");
         }
     }
 }
