@@ -1,0 +1,1 @@
+﻿Entityler ile Servisleri aynı katmanda yazmak baya zorlayıcı olsa da, istek böyle olduğunan böyle yaptım. Yoksa, Solution Explorer'a baktıkça gözlerim kanıyor.
